@@ -1,0 +1,5 @@
+P001#teclado#09/12/2023#tecnologia#199.99#1
+P002#casaca jean#09/12/2023#ropa#250.0#1
+P003#pizza americana#09/12/2023#comida#23.5#3
+P004#parlante#14/12/2023#tecnologia#29.99#2
+P005#microondas#14/12/2023#electrodomestico#500.0#1
